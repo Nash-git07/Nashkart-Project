@@ -1,0 +1,1 @@
+This is a Django Ecommerce Applicaion 
